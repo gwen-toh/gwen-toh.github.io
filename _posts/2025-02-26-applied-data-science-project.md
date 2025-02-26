@@ -180,9 +180,8 @@ Future Trends, Challenges & Recommendations:
 
 ## AI Ethics
 
-Potential Data Science Ethics Issues:
+#### Privacy and Web Scraping:
 
-Privacy and Web Scraping:
 Issue: Web scraping can inadvertently collect personal data or sensitive information if not carefully managed. Even if the scraped data is ostensibly public, aggregating large volumes of it can reveal patterns and insights that individuals did not intend to share.
 
 Ethical Concern: Respecting user privacy is paramount. Scraping data without clear consent or without anonymizing or aggregating it can violate ethical principles.
@@ -192,7 +191,8 @@ Mitigation:
 - Implement robust anonymization techniques to remove personally identifiable informatio..
 - Only scrape data that is absolutely required for the project.
 
-Accuracy and Bias in Topic Modeling:
+#### Accuracy and Bias in Topic Modeling:
+
 Issue: Topic modeling relies on algorithms that can be influenced by biases present in the training data. If the scraped data disproportionately represents certain viewpoints or demographics, the resulting topics may be skewed.
 
 Ethical Concern: Biased topic models can lead to inaccurate or misleading insights, potentially reinforcing harmful stereotypes or misrepresenting public opinion.
@@ -204,7 +204,8 @@ Mitigation:
 - Validate the topic models with human review and external data sources.
 
 
-Transparency and Reproducibility:
+#### Transparency and Reproducibility:
+
 Issue: The process of web scraping and topic modeling can be complex, involving numerous data transformations and algorithmic choices. Without clear documentation, it can be difficult to understand how the results were obtained or to reproduce them.
 
 Ethical Concern: Lack of transparency undermines trust in the analysis and makes it difficult to hold researchers accountable for their findings.
@@ -214,7 +215,8 @@ Mitigation:
 - Clearly explain the limitations and assumptions of the analysis.
 
 
-Accountability and Potential Misuse:
+#### Accountability and Potential Misuse:
+
 Issue: The insights generated from the project could be used for various purposes, some of which may have unintended consequences. For example, the analysis could be used to manipulate public opinion or to target specific groups with marketing campaigns.
 
 Ethical Concern: Researchers have a responsibility to consider the potential impact of their work and to take steps to prevent its misuse.
@@ -230,6 +232,6 @@ Mitigation:
 ## Source Codes and Datasets
 Model files and dataset. 
 
-(https://github.com/gwen-toh/itd214project.git)
+[https://github.com/gwen-toh/itd214project](https://github.com/gwen-toh/itd214project)
 
 
