@@ -27,7 +27,10 @@ Factors and Services that will be counted on to:
 
 _Gartner Press Releases_: Focus on reports related to Apple’s industry and relevant tech trends.
 _Google News, ChannelNewsAsia and MacDailyNews_: News articles and reports covering Apple, government policies and trends.
-![Picture1](https://github.com/user-attachments/assets/cd8824bc-dc6f-4e78-8b99-8653e5313aa1)![Picture2](https://github.com/user-attachments/assets/5c5c166f-12ce-4c10-b96a-e719bc747dfa)
+
+![Picture1](https://github.com/user-attachments/assets/cd8824bc-dc6f-4e78-8b99-8653e5313aa1)
+
+![Picture2](https://github.com/user-attachments/assets/5c5c166f-12ce-4c10-b96a-e719bc747dfa)
 
 * Data Breakdown
 
